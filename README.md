@@ -1,16 +1,36 @@
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk4cHppYm5ncHY4YzVrZG0zamR2Y3pqbW8xcmF6ZHllejJ1M3R0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk4cHppYm5ncHY4YzVrZG0zamR2Y3pqbW8xcmF6ZHllejJ1M3R0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="400"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/ketaki-khengre-a9941217b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>
+<h1 align ="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://cdn.elearningindustry.com/wp-content/uploads/2023/08/The-Impact-Of-Big-Data-Analytics-On-Business-Decision-Making.jpg" width="600" height="300"/>
-</div>
+---
+
+### :woman_technologist: About Me :
+- 👋 Hello! I'm Ketaki Khengre, a BTech graduate in Electronics and Telecommunication from VIT Pune.
+- 📚 Currently, pursuing an Executive MBA from SIBM Pune, specializing in Analytics and Marketing.
+- 💻 I work as a Software Developer with 3 years of experience in the automotive domain and want to explore the     Analytics and Business domain
+- 🚀 I'm passionate about contributing to the business administration of an organization and aspire to take on leadership roles while leveraging my technical skills!
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="pyrhon" width="40" height="40"/>&nbsp;
+
+ <div> 
+  
+
+
+  
+
