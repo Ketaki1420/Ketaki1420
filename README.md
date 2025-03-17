@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk4cHppYm5ncHY4YzVrZG0zamR2Y3pqbW8xcmF6ZHllejJ1M3R0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif](https://www.freepik.com/free-vector/hand-drawn-multitask-business-woman_12063433.htm#fromView=search&page=1&position=32&uuid=fbc951dc-c874-482f-9b3e-f2a68a2e7436&query=girl+boss)" width="150" height="150"/>
+  <img src="https://www.freepik.com/free-vector/hand-drawn-multitask-business-woman_12063433.htm#fromView=search&page=1&position=32&uuid=fbc951dc-c874-482f-9b3e-f2a68a2e7436&query=girl+boss" width="150" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/ketaki-khengre-a9941217b">
