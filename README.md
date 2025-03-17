@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk4cHppYm5ncHY4YzVrZG0zamR2Y3pqbW8xcmF6ZHllejJ1M3R0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk4cHppYm5ncHY4YzVrZG0zamR2Y3pqbW8xcmF6ZHllejJ1M3R0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" height="250"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/ketaki-khengre-a9941217b">
@@ -8,8 +8,8 @@
   </a>
 </div>
 <h1 align ="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
 
